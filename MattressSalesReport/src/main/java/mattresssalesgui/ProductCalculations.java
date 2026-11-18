@@ -6,7 +6,7 @@ package mattresssalesgui;
 
 /**
  *
- * @author pc
+ * @author ST10535061 GOMOLEMO
  */
 
 public class ProductCalculations implements IProductCalculations {

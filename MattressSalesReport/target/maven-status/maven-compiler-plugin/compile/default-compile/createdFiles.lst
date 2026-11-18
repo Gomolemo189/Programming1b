@@ -1,0 +1,7 @@
+mattresssalesreport\IProduct.class
+mattresssalesreport\PrintProduct.class
+mattresssalesreport\Product.class
+mattresssalesgui\ProductCalculations.class
+mattresssalesreport\MattressSalesReport.class
+mattresssalesgui\IProductCalculations.class
+mattresssalesgui\ProductApp.class
